@@ -14,7 +14,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"testing"
-	openapiclient "github.com/smy/gophers-sdk-go"
+	openapiclient "github.com/1055373165/gophers-sdk-go"
 )
 
 func Test_gopherssdkgo_GophersAPIService(t *testing.T) {
